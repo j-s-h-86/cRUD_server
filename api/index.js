@@ -1,12 +1,16 @@
 const express = require("express");
-const dotenv = require("dotenv");
-const fs = require("fs");
-const bodyParser = require("body-parser");
-const path = require("path");
+// const dotenv = require("dotenv");
+// const fs = require("fs");
+// const bodyParser = require("body-parser");
+// const path = require("path");
 
 const app = express();
 app.use(express.json());
+app.get("/", (req, res) => {
+  res.send("Hello world");
+});
 
+/*
 dotenv.config();
 
 // Middleware to parse JSON bodies
@@ -83,7 +87,7 @@ app.delete("/products/:id", (req, res) => {
     res.sendStatus(204);
   }
 });
-
+*/
 app.listen(3000, () => console.log("Server ready on port 3000."));
 
-module.exports = app;
+// module.exports = app;
