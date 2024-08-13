@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "The Republic",
+    "author": "Plato",
+    "price": 119
+  },
+  {
+    "id": 2,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "price": 129
+  },
+  {
+    "id": 3,
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "price": 139
+  },
+  {
+    "id": 4,
+    "title": "Critique of Pure Reason",
+    "author": "Immanuel Kant",
+    "price": 159
+  },
+  {
+    "id": 5,
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "price": 119
+  },
+  {
+    "id": 6,
+    "title": "Phenomenology of Spirit",
+    "author": "G.W.F. Hegel",
+    "price": 169
+  },
+  {
+    "id": 7,
+    "title": "Being and Time",
+    "author": "Martin Heidegger",
+    "price": 179
+  },
+  {
+    "id": 8,
+    "title": "Leviathan",
+    "author": "Thomas Hobbes",
+    "price": 149
+  },
+  {
+    "id": 9,
+    "title": "The Social Contract",
+    "author": "Jean-Jacques Rousseau",
+    "price": 139
+  },
+  {
+    "id": 10,
+    "title": "Discourse on Method",
+    "author": "René Descartes",
+    "price": 109
+  },
+  {
+    "id": 11,
+    "title": "A Short History Of Decay",
+    "author": "Emile Cioran",
+    "price": 149
+  },
+  {
+    "id": 12,
+    "title": "The Trouble With Being Born",
+    "author": "Emile Cioran",
+    "price": 149
+  }
+]
