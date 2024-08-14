@@ -58,17 +58,5 @@
     "title": "Discourse on Method",
     "author": "René Descartes",
     "price": 109
-  },
-  {
-    "id": 11,
-    "title": "A Short History Of Decay",
-    "author": "Emile Cioran",
-    "price": 149
-  },
-  {
-    "id": 12,
-    "title": "The Trouble With Being Born",
-    "author": "Emile Cioran",
-    "price": 149
   }
 ]
